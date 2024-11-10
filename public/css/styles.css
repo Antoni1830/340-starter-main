@@ -1,15 +1,7 @@
-/******* Change Box Model ***************/
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
-}
 body {
-  background-image:url(../images/site/checkerboard.jpg);
-  
+  background-image: url(../images/site/checkerboard.jpg);
   margin: 100px;
-  
-  font-family: Arial, sans-serif; 
+  font-family: Arial, sans-serif;
 }
 
 .wrapper{
